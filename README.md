@@ -2,5 +2,6 @@
 
 ## Description
 
-This is a Python project that helps with the ingestion and processing of documents for LangChain. The project uses pip for package management.
+## Based on an Existing Repository
 
+This project is based on the following repository: [emarco177/documentation-helper](https://github.com/emarco177/documentation-helper.git)
