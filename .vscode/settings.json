@@ -1,11 +1,18 @@
 {
     "cSpell.words": [
+        "búsqueda",
         "consts",
+        "Definición",
         "docsearch",
         "dotenv",
+        "función",
         "langchain",
+        "pline",
+        "prevlines",
         "streamlit",
         "Udemy",
         "vectorstores"
-    ]
+    ],
+    "terminal.explorerKind": "external",
+    "terminal.integrated.automationProfile.linux": {}
 }

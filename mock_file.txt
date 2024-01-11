@@ -1,0 +1,9 @@
+Line 1: Example text
+Line 2: Some random content
+Line 3: More random text
+Line 4: Searching for Python
+Line 5: Another line without the keyword
+Line 6: Yet another line
+Line 7: Python found here
+Line 8: This line does not have what we're looking for
+Line 9: Last line, mentioning Python again
